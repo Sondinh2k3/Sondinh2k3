@@ -42,16 +42,16 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/sondinh.2003" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=msQ6HdxpqUmi&format=png&color=000000" alt="Sondinh2k3-facebook" />
+    <img src="https://img.icons8.com/?size=100&id=118555&format=png&color=000000" alt="Sondinh2k3-facebook" />
   </a>
   <!-- <a href="https://youtube.com/@trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Sondinh2k3-youtube" />
   </a> -->
   <a href="www.linkedin.com/in/sondinh2k3td" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="Sondinh2k3-linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="Sondinh2k3-linkedin" />
   </a>
   <a href="mailto:ledinhsonx1td@gmail.com" target="top">
-    <img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" alt="Sondinh2k3-email" />
+    <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" alt="Sondinh2k3-email" />
   </a>
 </div>
 
