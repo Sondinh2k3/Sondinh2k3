@@ -46,7 +46,7 @@
   <!-- <a href="https://youtube.com/@trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Sondinh2k3-youtube" />
   </a> -->
-  <a href="www.linkedin.com/in/sondinh2k3td" target="blank">
+  <a href="www.linkedin.com/in/sondinh2k3td/" target="blank">
     <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="Sondinh2k3-linkedin" />
   </a>
   <a href="mailto:ledinhsonx1td@gmail.com" target="top">
