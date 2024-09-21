@@ -44,17 +44,14 @@
   <a href="https://www.facebook.com/sondinh.2003" target="blank">
     <img src="https://img.icons8.com/?size=100&id=msQ6HdxpqUmi&format=png&color=000000" alt="Sondinh2k3-facebook" />
   </a>
-  <a href="https://youtube.com/@trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <!-- <a href="https://youtube.com/@trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Sondinh2k3-youtube" />
+  </a> -->
+  <a href="www.linkedin.com/in/sondinh2k3td" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="Sondinh2k3-linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:ledinhsonx1td@gmail.com" target="top">
+    <img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" alt="Sondinh2k3-email" />
   </a>
 </div>
 
